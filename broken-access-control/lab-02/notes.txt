@@ -1,0 +1,6 @@
+Lab #2 - Unprotected admin functionality with unpredictable URL
+
+Target Goal - Find the admin panel and delete the user carlos.
+
+Analysis:
+view page source code to find code to expose admin panel and delete user
